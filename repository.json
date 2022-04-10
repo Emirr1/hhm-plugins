@@ -19,5 +19,6 @@
     "sav/players-helper",
     "sav/plugin-control",
     "sav/roles"
+    "sav/webhok"
   ]
 }
