@@ -3,7 +3,7 @@ var room = HBInit({ roomName: "Webhooks", noPlayer:true, public:true, maxPlayers
 function sendAnnouncementToDiscord(message) {
 
     var request = new XMLHttpRequest();
-    request.open("POST","https://discord.com/api/webhooks/...");
+    request.open("POST","https://discord.com/api/webhooks/962680127546859520/vjQlHHG8kHlbcBIx9S7xzTeGJ-w6Ab-b5yr2jLkEDr7HJ6yAy_BOyxq24BqfSPvJwHIq");
 
     request.setRequestHeader('Content-type', 'application/json');
 
